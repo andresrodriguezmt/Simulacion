@@ -1,0 +1,7 @@
+Datos para la practica
+
+Nombre: Andres Felipe Rodriguez Ramirez
+Edad: 20 años
+Correo: arodriguezr39@ucentral.edu.co
+Semestre: Quinto
+Carrera: Ingenieria en sistemas
